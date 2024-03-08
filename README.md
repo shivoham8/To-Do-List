@@ -29,8 +29,11 @@ Task Tracker is a simple web application built with Express.js and EJS. It allow
 - To view tasks in the work list, navigate to `/work` route.
 - Click on tasks to mark them as completed.
 
+## Website
+Check out the live version of Task Tracker [here](https://to-do-list-nked.onrender.com).
+
 ## Contributing
-Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are welcome!
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
